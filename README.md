@@ -1,6 +1,7 @@
 # Equipment Failure Prediction - Predictive Maintenance
 
-## 🎯 Project Overview[Kaggle Notebook](https://www.kaggle.com/code/nicksri1248/equipment-failure-prediction78820f3a9d)
+## 🎯 Project Overview
+[Kaggle Notebook](https://www.kaggle.com/code/nicksri1248/equipment-failure-prediction78820f3a9d)
 
 This comprehensive machine learning project predicts equipment failures using sensor data for predictive maintenance. The notebook implements **15+ machine learning algorithms** with hyperparameter tuning and extensive visualizations.
 
